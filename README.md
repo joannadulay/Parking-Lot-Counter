@@ -1,4 +1,4 @@
-# Experiment 5 — Parking Lot Counter
+# Parking Lot Counter
 
 An Arduino-based automated parking lot counter that detects incoming and outgoing vehicles, tracks the number of occupied and available parking spaces, and controls the parking gate using sensors, motors, and a 4-digit 7-segment display.
 
@@ -106,4 +106,4 @@ The exit mechanism uses a stepper motor controlled through an 8-step sequence. T
 
 # Video Documentation
 
-- [Project Demonstration and Testing Videos](https://drive.google.com/drive/folders/1QdBcjabaC0WMGpRr1KzXBAMMZ6dMnCR2?usp=sharing)
+- [Project Demonstration and Testing Videos](https://drive.google.com/drive/folders/1hjs9SySacAAUoF00kYV-Y0AT4d_VAFSj?usp=sharing)
