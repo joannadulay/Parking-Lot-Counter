@@ -4,7 +4,7 @@ An Arduino-based automated parking lot counter that detects incoming and outgoin
 
 # About the Project
 
-Experiment 5 is an embedded systems project that demonstrates how an Arduino can be used to automate a parking lot management system. The system uses an IR sensor to detect vehicles entering the parking lot and an ultrasonic sensor to detect vehicles at the exit. The Arduino keeps track of the number of occupied and available parking spaces and displays these values using a 4-digit 7-segment display.
+This is an embedded systems project that demonstrates how an Arduino can be used to automate a parking lot management system. The system uses an IR sensor to detect vehicles entering the parking lot and an ultrasonic sensor to detect vehicles at the exit. The Arduino keeps track of the number of occupied and available parking spaces and displays these values using a 4-digit 7-segment display.
 
 The system also uses a servo motor to control the entrance gate and a stepper motor to operate the exit mechanism. The parking lot has a maximum capacity of 10 cars.
 
