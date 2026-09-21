@@ -8,6 +8,10 @@ This is an embedded systems project that demonstrates how an Arduino can be used
 
 The system also uses a servo motor to control the entrance gate and a stepper motor to operate the exit mechanism. The parking lot has a maximum capacity of 10 cars.
 
+## Prototype
+
+![Parking Lot Counter Prototype](assets/parkinglotsetup.png)
+
 # Key Features
 
 - Automated vehicle entry detection using an IR sensor
